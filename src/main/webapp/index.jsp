@@ -12,6 +12,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Proyecto_SYMPHONY01_NetBeans</h1>
+        <h1>Proyecto_SYMPHONY01_NetBeans_y_commit</h1>
     </body>
 </html>
