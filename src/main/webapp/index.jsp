@@ -12,6 +12,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello ALMA! y te amo CLAUDIA</h1>
+        <h1>Proyecto_SYMPHONY01_NetBeans</h1>
     </body>
 </html>
