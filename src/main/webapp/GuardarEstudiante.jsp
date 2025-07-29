@@ -26,9 +26,15 @@
     <body>
         <div class="container">
             
-                <form action ="ServletEstudiante" method="POST">
+                <form action ="" method="">
                     <div class="card mt-3">
                         <div class="card-body">
+                            <center class="mb-3"><h4>Registro de Estudiante en SYMPHONY SIAS</h4></center>
+                            <hr>
+
+                        <div class="mb-3 text-start">
+                            <a href="Estudiantes.jsp" class="btn btn-warning">Volver</a>
+                        </div>   
                             <input type="hidden" name="action" value="actualizar">
                              <div class="col">
                                 <label>Nombres</label>
